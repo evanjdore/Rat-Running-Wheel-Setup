@@ -11,3 +11,5 @@ Filament: PLA Basic (Black and White)
 Magnetic Sensor used: 
 
 I will provide the models as .f3x files as well as .3mf files
+
+Magnetic sensor: SunFounder Switch Hall Sensor Module for Arduino and Raspberry Pi
