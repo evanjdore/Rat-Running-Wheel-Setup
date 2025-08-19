@@ -13,3 +13,5 @@ Magnetic Sensor used: SunFounder Switch Hall Sensor Module for Arduino and Raspb
 I will provide the models as .f3d files as well as .3mf files
 
 Magnetic sensor: SunFounder Switch Hall Sensor Module for Arduino and Raspberry Pi
+
+![alt text](https://github.com/evanjdore/Rat-Running-Wheel-Setup/blob/main/3mf_Files/MagnetSensorHolder_PutTogether%20v10.png?raw=true)
