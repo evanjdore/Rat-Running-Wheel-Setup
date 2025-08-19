@@ -8,7 +8,7 @@ Models were printed using a Bambu Lab X1 Carbon 3D Printer
 
 Filament: PLA Basic (Black and White)
 
-Magnetic Sensor used: 
+Magnetic Sensor used: SunFounder Switch Hall Sensor Module for Arduino and Raspberry Pi
 
 I will provide the models as .f3d files as well as .3mf files
 
